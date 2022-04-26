@@ -1,0 +1,1 @@
+CREATE TABLE stud_details (id INTEGER PRIMARY KEY AUTO_INCREMENT, full_name TEXT, email TEXT, phone_no INTEGER);

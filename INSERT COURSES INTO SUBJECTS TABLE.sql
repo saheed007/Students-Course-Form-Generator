@@ -1,0 +1,10 @@
+INSERT INTO course_form (student_id, course_id) VALUES (1, 3);
+INSERT INTO course_form (student_id, course_id) VALUES (1, 6);
+INSERT INTO course_form (student_id, course_id) VALUES (1, 7);
+INSERT INTO course_form (student_id, course_id) VALUES (2, 1);
+INSERT INTO course_form (student_id, course_id) VALUES (2, 2);
+INSERT INTO course_form (student_id, course_id) VALUES (2, 3);
+INSERT INTO course_form (student_id, course_id) VALUES (2, 4);
+INSERT INTO course_form (student_id, course_id) VALUES (2, 5);
+INSERT INTO course_form (student_id, course_id) VALUES (2, 6);
+INSERT INTO course_form (student_id, course_id) VALUES (2, 7);

@@ -1,0 +1,1 @@
+CREATE TABLE subjects (subject_id INTEGER PRIMARY KEY AUTO_INCREMENT, subject_name TEXT, unit INTEGER, lecturer TEXT);

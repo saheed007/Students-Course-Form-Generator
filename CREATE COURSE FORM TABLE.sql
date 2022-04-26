@@ -1,0 +1,1 @@
+CREATE TABLE course_form (student_id INTEGER, course_id INTEGER);
